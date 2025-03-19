@@ -17,3 +17,5 @@ setTimeout(() => {
 }, 3000);
 
 // global - globalus Node.js objektas, kuris turi daugybe metodu ir savybiu
+
+// window - atitikmuo frond-end narsykles lygyje
